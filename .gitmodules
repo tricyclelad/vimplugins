@@ -1,0 +1,15 @@
+[submodule ".vim/vim"]
+	path = .vim/vim
+	url = https://github.com/dracula/vim.git
+[submodule ".vim/bundle/vim"]
+	path = .vim/bundle/vim
+	url = https://github.com/dracula/vim.git
+[submodule ".vim/bundle/vim-syntax-extra"]
+	path = .vim/bundle/vim-syntax-extra
+	url = https://github.com/justinmk/vim-syntax-extra.git
+[submodule ".vim/bundle/syntax"]
+	path = .vim/bundle/syntax
+	url = https://github.com/octol/vim-cpp-enhanced-highlight.git
+[submodule ".vim/bundle/vim-cpp-enhanced-highlight"]
+	path = .vim/bundle/vim-cpp-enhanced-highlight
+	url = https://github.com/octol/vim-cpp-enhanced-highlight.git
